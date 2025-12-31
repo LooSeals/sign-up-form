@@ -18,3 +18,8 @@ Built using HTML and Vanilla CSS.
         <li>FlexBox</li>
     </ul>
 </ul>
+
+<br />
+
+<h3>Live Preview</h3>
+https://looseals.github.io/sign-up-form/
